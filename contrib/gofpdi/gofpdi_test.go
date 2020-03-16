@@ -2,8 +2,8 @@ package gofpdi
 
 import (
 	"bytes"
-	"github.com/jung-kurt/gofpdf"
-	"github.com/jung-kurt/gofpdf/internal/example"
+	"github.com/rubenhazelaar/gofpdf"
+	"github.com/rubenhazelaar/gofpdf/internal/example"
 	"io"
 	"sync"
 	"testing"
